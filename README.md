@@ -1,22 +1,31 @@
-👋 Hi, I'm Ayhan!
-🚀 About Me
-👀 I'm passionate about Computer Science and love solving real-world problems with code.
-🌱 Currently, I'm learning how to work as a Computer Engineer and exploring various technologies.
-💡 Interested in AI, Machine Learning, Cryptography, and Software Development.
-💞️ Looking for friendly teammates to collaborate on exciting projects.
-📫 Feel free to reach out via email – I'm always open to discussions!
-⚡ Fun fact: I write clean code, but my desk is a mess! 😄
-🛠 Tech Stack
-💻 Languages: Python, C, C++, Java, CSS, HTML
-🛠 Tools & Frameworks: Git, Docker, Streamlit, React, Node.js
-📂 Databases: MySQL, PostgreSQL
-📌 Currently Exploring: Deep Learning, Unix/Linux commands, and System Security
+# 👋 Hello, I'm Ayhan!  
 
-📈 GitHub Stats
+## 🎓 About Me  
+- Studying **Computer Engineering** at **Boğaziçi University** since 2021  
+- Passionate about **coding, open-source development, and problem-solving**  
 
+## 🛠 Skills  
+- **Programming Languages:** Python, C, C++, Java  
+- **Software Development:** Git, Unix/Linux, Streamlit, React  
+- **Experience:** Cryptography, AI, and System Security  
 
-📫 Get in Touch
-📧 Email: ali.gunder@std.bogazici.edu.tr
-💼 LinkedIn: https://www.linkedin.com/in/ali-ayhan-g%C3%BCnder-47227b252/
-📝 Portfolio: 
-Let's connect and build something awesome together! 🚀
+## 🎯 Hobbies  
+- **Fitness** – Staying active keeps my mind sharp  
+- **Gaming** – Love competitive strategy games  
+- **Tech Blogs** – Always learning something new  
+
+## 🛠 Favorite Tools  
+- **VS Code**, **IntelliJ**, **PyCharm**, **GitHub**  
+
+## 🎯 Goals  
+- **Short-term:** Mastering **Unix shell scripting** and **system security**  
+- **Long-term:** Building **scalable and secure AI-powered applications**  
+
+## 📬 Connect With Me  
+- **GitHub:** [Ayhan-coder](https://github.com/Ayhan-coder)  
+- **Email:** [ali.gunder@std.bogazici.edu.tr](mailto:ali.gunder@std.bogazici.edu.tr)  
+- **Alternative Email:** [gunderaliayhan@gmail.com](mailto:gunderaliayhan@gmail.com)  
+
+## ✨ Quotes / Inspiration  
+> **"The one who loves his country the most is the one who performs his duty best."** – Mustafa Kemal Atatürk  
+
